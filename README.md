@@ -4,4 +4,4 @@ This e-mail was tested using Litmus PutsMail on e-mail clients such as:
 
 -Google <br>
 -Apple Mail <br>
--Outlook
+-Outlook (All Versions)
